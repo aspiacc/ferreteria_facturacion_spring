@@ -1,4 +1,4 @@
 
 public class ultimoCambio {
-	private String = "ultimo";
+	private String f = "ultimo";
 }
